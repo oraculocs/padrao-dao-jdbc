@@ -60,7 +60,7 @@ public class Program2 {
 		
 		System.out.println("Delete completed");
 		
-		
+		sc.close();
 	}
 
 }
